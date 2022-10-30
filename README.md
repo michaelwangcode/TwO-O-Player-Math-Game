@@ -10,6 +10,8 @@ The player whose turn it is is prompted the question and must answer correctly o
 
 If you lose all three lives, you lose the game.
 
+Made during Lighthouse Labs (W09D1).
+
 
 ## Running the Program
 
